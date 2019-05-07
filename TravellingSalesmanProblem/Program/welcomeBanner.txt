@@ -1,0 +1,22 @@
+This program is made by Thon Pun Liang (101209471).
+
+---Travelling Salesman Problem Game---
+
+The travelling salesman problem (TSP) asks the following question: 
+"Given a list of cities and the distances between each pair of cities, 
+what is the shortest possible route that visits each city and returns to the origin city?".
+
+---Instruction and Rules of the Game---
+1. Your goal is to visit all the 13 cities, namely
+   A, B, C, D, E, F, G, H, I, J, K, L, M, N
+   with as less moves as possible.
+
+2. Use key W, A, S, D to move around the board
+
+3. Your starting point is randomised so make sure
+   you know where your starting point is by looking 
+   for the symbol '@', which is your head, or cursor.
+
+4. For every path you have visited you will leave a '='.
+
+5. Use Q to quit the program.
