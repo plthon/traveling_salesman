@@ -1,2 +1,3 @@
-# traveling_salesman
+# Traveling Salesman Problem (TSP)
+## Background: 
 The traveling salesman problem (TSP) is an algorithmic problem tasked with finding the shortest route between a set of points and locations that must be visited. The salesman‘s goal is to keep the distance travelled as low as possible. Focused on optimization, TSP is often used in computer science to find the most efficient route for data to travel between various nodes. Applications include identifying network or hardware optimization methods. TSP has been studied for decades and several solutions have been theorized. The simplest solution is to try all possibilities, but this is also the most time consuming and expensive method. Many solutions use heuristics, which provides probability outcomes. However, the results are approximate and not always optimal. Hence, no general method of solution is known, and the problem is known as NP-hard.
